@@ -1,0 +1,9 @@
+C:\Users\利仁欧尼\Documents\Fuji\大三上课程\VB\SY 5\打字母\打字母\bin\Debug\打字母.exe
+C:\Users\利仁欧尼\Documents\Fuji\大三上课程\VB\SY 5\打字母\打字母\bin\Debug\打字母.pdb
+C:\Users\利仁欧尼\Documents\Fuji\大三上课程\VB\SY 5\打字母\打字母\bin\Debug\打字母.xml
+C:\Users\利仁欧尼\Documents\Fuji\大三上课程\VB\SY 5\打字母\打字母\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\利仁欧尼\Documents\Fuji\大三上课程\VB\SY 5\打字母\打字母\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\利仁欧尼\Documents\Fuji\大三上课程\VB\SY 5\打字母\打字母\obj\x86\Debug\打字母.vbproj.GenerateResource.Cache
+C:\Users\利仁欧尼\Documents\Fuji\大三上课程\VB\SY 5\打字母\打字母\obj\x86\Debug\打字母.exe
+C:\Users\利仁欧尼\Documents\Fuji\大三上课程\VB\SY 5\打字母\打字母\obj\x86\Debug\打字母.xml
+C:\Users\利仁欧尼\Documents\Fuji\大三上课程\VB\SY 5\打字母\打字母\obj\x86\Debug\打字母.pdb

@@ -1,0 +1,9 @@
+C:\Users\利仁欧尼\Documents\Fuji\大三上课程\VB\SY 5\数星星\数星星\bin\Debug\数星星.exe
+C:\Users\利仁欧尼\Documents\Fuji\大三上课程\VB\SY 5\数星星\数星星\bin\Debug\数星星.pdb
+C:\Users\利仁欧尼\Documents\Fuji\大三上课程\VB\SY 5\数星星\数星星\bin\Debug\数星星.xml
+C:\Users\利仁欧尼\Documents\Fuji\大三上课程\VB\SY 5\数星星\数星星\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\利仁欧尼\Documents\Fuji\大三上课程\VB\SY 5\数星星\数星星\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\利仁欧尼\Documents\Fuji\大三上课程\VB\SY 5\数星星\数星星\obj\x86\Debug\数星星.vbproj.GenerateResource.Cache
+C:\Users\利仁欧尼\Documents\Fuji\大三上课程\VB\SY 5\数星星\数星星\obj\x86\Debug\数星星.exe
+C:\Users\利仁欧尼\Documents\Fuji\大三上课程\VB\SY 5\数星星\数星星\obj\x86\Debug\数星星.xml
+C:\Users\利仁欧尼\Documents\Fuji\大三上课程\VB\SY 5\数星星\数星星\obj\x86\Debug\数星星.pdb

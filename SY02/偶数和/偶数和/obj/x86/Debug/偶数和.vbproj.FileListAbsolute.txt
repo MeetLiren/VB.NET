@@ -1,0 +1,11 @@
+D:\偶数和\偶数和\bin\Debug\偶数和.exe
+D:\偶数和\偶数和\bin\Debug\偶数和.pdb
+D:\偶数和\偶数和\bin\Debug\偶数和.xml
+D:\偶数和\偶数和\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\偶数和\偶数和\obj\x86\Debug\WindowsApplication1.Form1.resources
+D:\偶数和\偶数和\obj\x86\Debug\WindowsApplication1.Resources.resources
+D:\偶数和\偶数和\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\偶数和\偶数和\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\偶数和\偶数和\obj\x86\Debug\偶数和.exe
+D:\偶数和\偶数和\obj\x86\Debug\偶数和.xml
+D:\偶数和\偶数和\obj\x86\Debug\偶数和.pdb

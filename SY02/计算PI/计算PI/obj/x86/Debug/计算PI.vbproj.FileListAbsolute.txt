@@ -1,0 +1,9 @@
+C:\Users\利仁欧尼\Documents\Fuji\大三上课程\VB\SY 5\计算PI\计算PI\bin\Debug\计算PI.exe
+C:\Users\利仁欧尼\Documents\Fuji\大三上课程\VB\SY 5\计算PI\计算PI\bin\Debug\计算PI.pdb
+C:\Users\利仁欧尼\Documents\Fuji\大三上课程\VB\SY 5\计算PI\计算PI\bin\Debug\计算PI.xml
+C:\Users\利仁欧尼\Documents\Fuji\大三上课程\VB\SY 5\计算PI\计算PI\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\利仁欧尼\Documents\Fuji\大三上课程\VB\SY 5\计算PI\计算PI\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\利仁欧尼\Documents\Fuji\大三上课程\VB\SY 5\计算PI\计算PI\obj\x86\Debug\计算PI.vbproj.GenerateResource.Cache
+C:\Users\利仁欧尼\Documents\Fuji\大三上课程\VB\SY 5\计算PI\计算PI\obj\x86\Debug\计算PI.exe
+C:\Users\利仁欧尼\Documents\Fuji\大三上课程\VB\SY 5\计算PI\计算PI\obj\x86\Debug\计算PI.xml
+C:\Users\利仁欧尼\Documents\Fuji\大三上课程\VB\SY 5\计算PI\计算PI\obj\x86\Debug\计算PI.pdb
