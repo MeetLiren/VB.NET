@@ -22,13 +22,13 @@
 
 ### 实验项目
 (1) 设计一个程序，计算2～200的偶数和。    
-(2)	教材试验P315 图2.4.2内容第一题.用两个并列的循环实现如下图所示的界面。
+(2)	教材试验P315 图2.4.2内容第一题.用两个并列的循环实现如下图所示的界面。    
 ![avatar](http://repoofliren.oss-cn-shanghai.aliyuncs.com/sy5.1.jpg?Expires=1557392703&OSSAccessKeyId=TMP.AgFwkoQoSclQCON5v2BsB28sARzX1YZ6KH2p9Kbm6kMyy6-8Drgaz-9MyNg5ADAtAhRXYcUwNHgr49uWN1zcy5TCmArNAgIVALCH1qqlYPhd6UvKQwI-Psc_sYhg&Signature=tkSjfQspd6yOkJYIScHMhRA2tds%3D)    
 (3) 教材试验P316 图2.4.2内容第二题.     
-(4) 分别利用For和Do循环语句求 $S= 1 + \frac{1}{2} + \frac{1}{4} + \frac{1}{7}+ \frac{1}{11} + \frac{1}{16} + \cdots$ 的值，当第i项的值<10-4时结束。运行结果如图所示。
+(4) 分别利用For和Do循环语句求 $S= 1 + \frac{1}{2} + \frac{1}{4} + \frac{1}{7}+ \frac{1}{11} + \frac{1}{16} + \cdots$ 的值，当第i项的值<10-4时结束。运行结果如图所示。    
 ![avatar](http://repoofliren.oss-cn-shanghai.aliyuncs.com/sy5.2.jpg?Expires=1557392724&OSSAccessKeyId=TMP.AgFwkoQoSclQCON5v2BsB28sARzX1YZ6KH2p9Kbm6kMyy6-8Drgaz-9MyNg5ADAtAhRXYcUwNHgr49uWN1zcy5TCmArNAgIVALCH1qqlYPhd6UvKQwI-Psc_sYhg&Signature=mhmC2Bpb7%2F5JaUFlW59IqDG1gNg%3D)     
-(5) 计算π的近似值，π的计算公式为：$pi = 2 \times \frac{2^2}{1 \times 3} \times \frac{4^2}{3 \times 5} \times \frac{6^2}{5 \times 7} \times \cdots \times \frac{(2n)^2}{(2n-1) \times (2m+1)}$ 运行结果如图所示。
-![avatar](http://repoofliren.oss-cn-shanghai.aliyuncs.com/sy5.3.jpg?Expires=1557392741&OSSAccessKeyId=TMP.AgFwkoQoSclQCON5v2BsB28sARzX1YZ6KH2p9Kbm6kMyy6-8Drgaz-9MyNg5ADAtAhRXYcUwNHgr49uWN1zcy5TCmArNAgIVALCH1qqlYPhd6UvKQwI-Psc_sYhg&Signature=pIAejxfMJDaN3VMce83zSd5Tjv8%3D) 
+(5) 计算π的近似值，π的计算公式为：$pi = 2 \times \frac{2^2}{1 \times 3} \times \frac{4^2}{3 \times 5} \times \frac{6^2}{5 \times 7} \times \cdots \times \frac{(2n)^2}{(2n-1) \times (2m+1)}$ 运行结果如图所示。     
+![avatar](http://repoofliren.oss-cn-shanghai.aliyuncs.com/sy5.3.jpg?Expires=1557392741&OSSAccessKeyId=TMP.AgFwkoQoSclQCON5v2BsB28sARzX1YZ6KH2p9Kbm6kMyy6-8Drgaz-9MyNg5ADAtAhRXYcUwNHgr49uWN1zcy5TCmArNAgIVALCH1qqlYPhd6UvKQwI-Psc_sYhg&Signature=pIAejxfMJDaN3VMce83zSd5Tjv8%3D)      
 ![avatar](http://repoofliren.oss-cn-shanghai.aliyuncs.com/sy5.4.jpg?Expires=1557392752&OSSAccessKeyId=TMP.AgFwkoQoSclQCON5v2BsB28sARzX1YZ6KH2p9Kbm6kMyy6-8Drgaz-9MyNg5ADAtAhRXYcUwNHgr49uWN1zcy5TCmArNAgIVALCH1qqlYPhd6UvKQwI-Psc_sYhg&Signature=fhTlJ7Phy725jeP96oCqJ3ibh0s%3D)
 
 
