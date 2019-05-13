@@ -1,0 +1,9 @@
+C:\Users\利仁欧尼\Documents\Fuji\大三上课程\VB\SY_4\鸡兔同笼\鸡兔同笼\bin\Debug\鸡兔同笼.exe
+C:\Users\利仁欧尼\Documents\Fuji\大三上课程\VB\SY_4\鸡兔同笼\鸡兔同笼\bin\Debug\鸡兔同笼.pdb
+C:\Users\利仁欧尼\Documents\Fuji\大三上课程\VB\SY_4\鸡兔同笼\鸡兔同笼\bin\Debug\鸡兔同笼.xml
+C:\Users\利仁欧尼\Documents\Fuji\大三上课程\VB\SY_4\鸡兔同笼\鸡兔同笼\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\利仁欧尼\Documents\Fuji\大三上课程\VB\SY_4\鸡兔同笼\鸡兔同笼\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\利仁欧尼\Documents\Fuji\大三上课程\VB\SY_4\鸡兔同笼\鸡兔同笼\obj\x86\Debug\鸡兔同笼.vbproj.GenerateResource.Cache
+C:\Users\利仁欧尼\Documents\Fuji\大三上课程\VB\SY_4\鸡兔同笼\鸡兔同笼\obj\x86\Debug\鸡兔同笼.exe
+C:\Users\利仁欧尼\Documents\Fuji\大三上课程\VB\SY_4\鸡兔同笼\鸡兔同笼\obj\x86\Debug\鸡兔同笼.xml
+C:\Users\利仁欧尼\Documents\Fuji\大三上课程\VB\SY_4\鸡兔同笼\鸡兔同笼\obj\x86\Debug\鸡兔同笼.pdb
