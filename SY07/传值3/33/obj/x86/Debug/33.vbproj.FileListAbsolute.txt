@@ -1,0 +1,12 @@
+C:\Users\利仁欧尼\Documents\Fuji\大二下课程\VB\sy10\33\33\bin\Debug\33.exe
+C:\Users\利仁欧尼\Documents\Fuji\大二下课程\VB\sy10\33\33\bin\Debug\33.pdb
+C:\Users\利仁欧尼\Documents\Fuji\大二下课程\VB\sy10\33\33\bin\Debug\33.xml
+C:\Users\利仁欧尼\Documents\Fuji\大二下课程\VB\sy10\33\33\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\利仁欧尼\Documents\Fuji\大二下课程\VB\sy10\33\33\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\利仁欧尼\Documents\Fuji\大二下课程\VB\sy10\33\33\obj\x86\Debug\33.vbproj.GenerateResource.Cache
+C:\Users\利仁欧尼\Documents\Fuji\大二下课程\VB\sy10\33\33\obj\x86\Debug\33.exe
+C:\Users\利仁欧尼\Documents\Fuji\大二下课程\VB\sy10\33\33\obj\x86\Debug\33.xml
+C:\Users\利仁欧尼\Documents\Fuji\大二下课程\VB\sy10\33\33\obj\x86\Debug\33.pdb
+C:\Users\利仁欧尼\Documents\Fuji\大二下课程\VB\sy10\传值3\33\obj\x86\Debug\33.exe
+C:\Users\利仁欧尼\Documents\Fuji\大二下课程\VB\sy10\传值3\33\obj\x86\Debug\33.xml
+C:\Users\利仁欧尼\Documents\Fuji\大二下课程\VB\sy10\传值3\33\obj\x86\Debug\33.pdb

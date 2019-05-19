@@ -1,0 +1,14 @@
+D:\sy1001\sy1001\bin\Debug\sy1001.exe
+D:\sy1001\sy1001\bin\Debug\sy1001.pdb
+D:\sy1001\sy1001\bin\Debug\sy1001.xml
+D:\sy1001\sy1001\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\sy1001\sy1001\obj\x86\Debug\WindowsApplication1.Form1.resources
+D:\sy1001\sy1001\obj\x86\Debug\WindowsApplication1.Resources.resources
+D:\sy1001\sy1001\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\sy1001\sy1001\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\sy1001\sy1001\obj\x86\Debug\sy1001.exe
+D:\sy1001\sy1001\obj\x86\Debug\sy1001.xml
+D:\sy1001\sy1001\obj\x86\Debug\sy1001.pdb
+C:\Users\利仁欧尼\Documents\Fuji\大二下课程\VB\sy10\求最大公约数\sy1001\obj\x86\Debug\sy1001.exe
+C:\Users\利仁欧尼\Documents\Fuji\大二下课程\VB\sy10\求最大公约数\sy1001\obj\x86\Debug\sy1001.xml
+C:\Users\利仁欧尼\Documents\Fuji\大二下课程\VB\sy10\求最大公约数\sy1001\obj\x86\Debug\sy1001.pdb

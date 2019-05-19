@@ -1,0 +1,9 @@
+C:\Users\利仁欧尼\Documents\Fuji\大三上课程\VB\sy7\AB数组\AB数组\bin\Debug\AB数组.exe
+C:\Users\利仁欧尼\Documents\Fuji\大三上课程\VB\sy7\AB数组\AB数组\bin\Debug\AB数组.pdb
+C:\Users\利仁欧尼\Documents\Fuji\大三上课程\VB\sy7\AB数组\AB数组\bin\Debug\AB数组.xml
+C:\Users\利仁欧尼\Documents\Fuji\大三上课程\VB\sy7\AB数组\AB数组\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\利仁欧尼\Documents\Fuji\大三上课程\VB\sy7\AB数组\AB数组\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\利仁欧尼\Documents\Fuji\大三上课程\VB\sy7\AB数组\AB数组\obj\x86\Debug\AB数组.vbproj.GenerateResource.Cache
+C:\Users\利仁欧尼\Documents\Fuji\大三上课程\VB\sy7\AB数组\AB数组\obj\x86\Debug\AB数组.exe
+C:\Users\利仁欧尼\Documents\Fuji\大三上课程\VB\sy7\AB数组\AB数组\obj\x86\Debug\AB数组.xml
+C:\Users\利仁欧尼\Documents\Fuji\大三上课程\VB\sy7\AB数组\AB数组\obj\x86\Debug\AB数组.pdb

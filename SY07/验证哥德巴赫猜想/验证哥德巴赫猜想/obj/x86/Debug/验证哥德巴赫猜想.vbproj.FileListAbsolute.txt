@@ -1,0 +1,9 @@
+C:\Users\利仁欧尼\Documents\Fuji\大二下课程\VB\sy10\验证哥德巴赫猜想\验证哥德巴赫猜想\bin\Debug\验证哥德巴赫猜想.exe
+C:\Users\利仁欧尼\Documents\Fuji\大二下课程\VB\sy10\验证哥德巴赫猜想\验证哥德巴赫猜想\bin\Debug\验证哥德巴赫猜想.pdb
+C:\Users\利仁欧尼\Documents\Fuji\大二下课程\VB\sy10\验证哥德巴赫猜想\验证哥德巴赫猜想\bin\Debug\验证哥德巴赫猜想.xml
+C:\Users\利仁欧尼\Documents\Fuji\大二下课程\VB\sy10\验证哥德巴赫猜想\验证哥德巴赫猜想\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\利仁欧尼\Documents\Fuji\大二下课程\VB\sy10\验证哥德巴赫猜想\验证哥德巴赫猜想\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\利仁欧尼\Documents\Fuji\大二下课程\VB\sy10\验证哥德巴赫猜想\验证哥德巴赫猜想\obj\x86\Debug\验证哥德巴赫猜想.vbproj.GenerateResource.Cache
+C:\Users\利仁欧尼\Documents\Fuji\大二下课程\VB\sy10\验证哥德巴赫猜想\验证哥德巴赫猜想\obj\x86\Debug\验证哥德巴赫猜想.exe
+C:\Users\利仁欧尼\Documents\Fuji\大二下课程\VB\sy10\验证哥德巴赫猜想\验证哥德巴赫猜想\obj\x86\Debug\验证哥德巴赫猜想.xml
+C:\Users\利仁欧尼\Documents\Fuji\大二下课程\VB\sy10\验证哥德巴赫猜想\验证哥德巴赫猜想\obj\x86\Debug\验证哥德巴赫猜想.pdb

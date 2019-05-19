@@ -1,0 +1,14 @@
+D:\字母反序\字母反序\bin\Debug\字母反序.exe
+D:\字母反序\字母反序\bin\Debug\字母反序.pdb
+D:\字母反序\字母反序\bin\Debug\字母反序.xml
+D:\字母反序\字母反序\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\字母反序\字母反序\obj\x86\Debug\WindowsApplication1.Form1.resources
+D:\字母反序\字母反序\obj\x86\Debug\WindowsApplication1.Resources.resources
+D:\字母反序\字母反序\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\字母反序\字母反序\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\字母反序\字母反序\obj\x86\Debug\字母反序.exe
+D:\字母反序\字母反序\obj\x86\Debug\字母反序.xml
+D:\字母反序\字母反序\obj\x86\Debug\字母反序.pdb
+C:\Users\利仁欧尼\Documents\Fuji\大三上课程\VB\sy6\字母反序\字母反序\obj\x86\Debug\字母反序.exe
+C:\Users\利仁欧尼\Documents\Fuji\大三上课程\VB\sy6\字母反序\字母反序\obj\x86\Debug\字母反序.xml
+C:\Users\利仁欧尼\Documents\Fuji\大三上课程\VB\sy6\字母反序\字母反序\obj\x86\Debug\字母反序.pdb
